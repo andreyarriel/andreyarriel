@@ -12,7 +12,10 @@ Eu sou desenvolvedor **FRONTEND**.
 
 <br/>
 
-Sou um profissional dedicado e entusiasta em busca de novos desafios. Iniciei minha carreira como garçom, mas sempre tive interesse em tecnologia e programação. <br/> Recentemente, fiz uma transição de carreira para a área de TI e tenho buscado aprimorar minhas habilidades em programação. <br/> Possuo conhecimentos em linguagens como HTML, CSS e JavaScript. Sou autodidata, proativo e estou sempre buscando aprender e me desenvolver profissionalmente. </br> Estou em busca de novas oportunidades na área de programação para continuar minha jornada de aprendizado e crescimento.
+Sou um profissional dedicado e entusiasta em busca de novos desafios.
+<br/>Possuo conhecimentos em linguagens como HTML, CSS e JavaScript.
+<br/>Sou autodidata, proativo e estou sempre buscando aprender e me desenvolver profissionalmente.
+<br/> Estou em busca de novas oportunidades na área de programação para continuar minha jornada de aprendizado e crescimento.
 
 
 
