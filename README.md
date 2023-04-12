@@ -8,7 +8,7 @@
 
 Estudando na **UNIP**<br/>
 
-Desenvolvedor **FRONTEND**.
+Desenvolvedor **WEB DEVELOPER**.
 
 <br/>
 
