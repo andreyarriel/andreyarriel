@@ -6,9 +6,11 @@
 
 <p>
 
-Estudando na **UNIP**<br/>
+Estudando na **UNIP**
+  
+<br/>
 
-Desenvolvedor **WEB DEVELOPER**.
+**Web Developer**.
 
 <br/>
 
